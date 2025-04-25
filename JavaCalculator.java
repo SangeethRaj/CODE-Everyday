@@ -78,13 +78,13 @@ public class JavaCalculator
 		
 				catch (Exception e) 
 					{
-						System.out.println("You have entered an Invalid Input! Please enter valid numbers.");
+						System.out.println("You have entered an Invalid Input! Please enter valid text.");
 					}//catch
 			
 				finally 
 					{
 						input.close();
 					}//finally
-					
+
     }//method
 }//class
