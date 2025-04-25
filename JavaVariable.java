@@ -1,4 +1,4 @@
-public class VariableDemo 
+public class JavaVariable 
 {  
     public static void main( String [] args)
     {
