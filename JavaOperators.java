@@ -1,4 +1,4 @@
-public class operators
+public class JavaOperators
 {
 	public static void main (String[] args)
 	{
@@ -14,6 +14,7 @@ public class operators
         System.out.println("a > b? " + (a > b));
         
         boolean result = (a > 5 && b < 5);
+
         System.out.println("Result of (a > 5 && b < 5): " + result);
 
 	}
