@@ -1,3 +1,4 @@
+package Topics;
 /*
 Variables - Named memory locations, they are storage spaces that store data.
 These data are used when compiling the code.
