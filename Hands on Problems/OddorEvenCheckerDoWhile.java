@@ -5,9 +5,9 @@ public class OddorEvenCheckerDoWhile {
     {
         Scanner var = new Scanner(System.in); 
 
-        String choice;
+        String choice; 
 
-        do 
+        do
         {
             System.out.println("Enter a Number: ");
             int a = var.nextInt();
