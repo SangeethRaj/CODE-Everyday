@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SimplePattern {
+public class SimpleBoxPattern {
     public static void main (String [] args)
     {
         System.out.print("Enter the number of rows: ");
@@ -11,7 +11,7 @@ public class SimplePattern {
 
         for ( int i = 1; i <= length; i++)
         {
-            for ( int j = 1; j <= i; j++)
+            for ( int j = 1; j <= length; j++)
             {
                 System.out.print("* ");
             }
