@@ -13,7 +13,6 @@ public class SimplePatternDoWhile
         int i = 0;
 
         do { 
-
             int j = 0;
                 do
                 {
