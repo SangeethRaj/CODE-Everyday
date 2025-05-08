@@ -1,0 +1,14 @@
+public class UserGreetings 
+{
+	public string GreetingMessage;
+    
+    public void setGreetings( String name, Integer age)
+    {
+        greetingMessage = 'Hello ' + name + '! You are ' + age + ' years old.';
+    }
+    
+    public String getGreetings()
+    {
+        return GreetingMessage;
+    }
+}
