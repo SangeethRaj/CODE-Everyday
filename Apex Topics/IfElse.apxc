@@ -1,0 +1,14 @@
+public class IfElse 
+{
+	public static void CheckForAdult (String Name,  Integer Age)
+    {
+        if (Age >= 18)
+        {
+            System.debug(Name +', You are an Adult to Vote');
+        }
+        else 
+        {
+            System.debug(Name +', You are a Minor to Vote');
+        }
+    }
+}
